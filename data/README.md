@@ -46,4 +46,4 @@ data/
 - `department_id`
 - `department`
 
-Os arquivos devem utilizar ponto e vírgula (`;`) como separador. O notebook aceita `order_products.csv` descompactado ou `order_products.csv.zip`.
+Os arquivos devem utilizar ponto e vírgula (`;`) como separador.
