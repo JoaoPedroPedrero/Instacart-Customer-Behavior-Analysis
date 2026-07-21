@@ -6,7 +6,7 @@ Os arquivos de dados não são publicados neste repositório. Para executar o no
 data/
 ├── instacart_orders.csv
 ├── products.csv
-├── order_products.csv      # também pode ser order_products.csv.zip
+├── order_products.csv
 ├── aisles.csv
 └── departments.csv
 ```
