@@ -72,7 +72,7 @@ instacart-customer-behavior-analysis/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/instacart-customer-behavior-analysis.git
+git clone https://github.com/JoaoPedroPedrero/instacart-customer-behavior-analysis.git
 cd instacart-customer-behavior-analysis
 ```
 
