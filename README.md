@@ -11,6 +11,14 @@ O projeto reúne **limpeza, validação e manipulação de dados**, além da inv
 
 ![Pedidos por hora](images/orders_by_hour.png)
 
+## 🎓 Contexto do Projeto
+
+Este projeto foi originalmente desenvolvido durante minha formação em **Data Science pela TripleTen**, como parte dos estudos de análise exploratória e manipulação de dados.
+
+Após sua conclusão inicial, o projeto foi **revisado e aprimorado**, com foco em melhorar a organização do código, a qualidade das análises, as visualizações, a documentação e a apresentação dos resultados.
+
+Essa revisão também faz parte do meu processo de aprendizado contínuo, buscando aplicar boas práticas e aprofundar cada vez mais meus conhecimentos em **Ciência de Dados e Análise de Dados**.
+
 ## Objetivo
 
 Validar cinco tabelas relacionadas a pedidos de supermercado e responder perguntas sobre:
